@@ -7,6 +7,7 @@ import com.example.lzz.demoproject.ui.activity.base.DemoProjectActivity;
 
 public class MainActivity extends DemoProjectActivity {
 
+//中文注释
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
